@@ -1,1 +1,2 @@
-![T-Rex Runner](t-rex-runner.gif)
+![T-Rex Runner](https://github.com/smarchetti/smarchetti/raw/master/t-rex-runner.gif)
+
