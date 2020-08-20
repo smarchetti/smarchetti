@@ -1,1 +1,1 @@
-This is a test of my profile page.
+![T-Rex Runner](t-rex-runner.gif)
